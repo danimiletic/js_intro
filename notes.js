@@ -42,3 +42,34 @@
 // let - things you want to change
 // const - constant or things you don't want change
 // scope is where ever it is you define it in.
+// coding blocks in js use { } instead of end in conditionals
+// {
+
+// }
+
+// if () {
+
+// } else {
+
+// }
+
+// else if {
+
+// }
+
+// functions in JS are the same as methods in ruby
+
+// function displayMenu(if there are arguments, put here){
+// }
+// displayMenu()
+
+// const displayMenu = (args) => {
+
+// }
+
+// displayMenu(num)
+//anonymous function
+// () => code
+
+// hashes are the exact same as ruby 
+// but to reference something in the hash you use the dot operator .are
